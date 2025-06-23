@@ -27,19 +27,12 @@ This suite integrates email reading, PDF invoice extraction, validation, and a u
 
 invoice-automation-suite/
 ├── email_reader.py  # Connects to inbox, downloads invoice PDFs
-
 ├── pdf_extractor.py  # Extracts order info from PDFs
-
 ├── validator.py  # Validates duplicates and required fields
-
 ├── ui.py # Tkinter-based GUI for invoice tracking
-
 ├── utils.py # Helper functions
-
 ├── data/ # Folder for storing PDFs or Excel logs
-
 ├── requirements.txt # Python dependencies
-
 └── README.md
 
 
